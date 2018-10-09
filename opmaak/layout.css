@@ -1,0 +1,48 @@
+body {
+	background-color:#686868;
+	background: url(smitebg2.jpg);
+
+}	
+
+h1 , p {
+	font-family:"Arial", "Helvetica", "Sans-serif";
+	text-indent: 10px;
+}
+
+h3 , p {
+	font-family:"Arial", "Helvetica", "Sans-serif";
+	text-indent: 10px;
+	margin-left: 3px;
+	margin-bottom: 3px;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+li {
+	display:inline;
+	margin-left:70px;
+	color:#ffffff;
+}
+
+a {
+	color:#ffffff;
+	text-decoration:none;
+}
+
+a:hover { 
+	color:#a30127;
+}
+
+img {
+	margin-left:20px;
+}
+
+div	{
+	width:900px;
+	height:100%;
+	background-color:#999999;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius:7px;
+	background: transparent;
+	color:#ffffff;
+}
